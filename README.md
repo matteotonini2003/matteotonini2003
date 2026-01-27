@@ -33,7 +33,8 @@ I enjoy building hardware–software systems, from low-level embedded code to PC
 **Embedded:** ATmega32, Microcontrollers  
 **Wireless / IoT:** *(in progress)*  
 **EDA:** KiCad, LTspice  
-**Lab:** Oscilloscope, SMD soldering, PCB bring-up  
+**Lab:** SPICE simulation before hardware implementation, Breadboard prototyping, Oscilloscope measurements (time-domain and frequency response), Function generator usage,  
+         Bench power supplies, Multimeter measurements, Noise and offset analysis, Debugging and fault isolation, Comparison between simulated and measured results
 **OS:** Linux
 
 ---
