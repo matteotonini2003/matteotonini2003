@@ -30,6 +30,12 @@ I enjoy building hardware–software systems, from low-level embedded code to PC
   
 
 ---
+📚 Academic Work
+
+📘 Bachelor’s Thesis — Temperature Effects in Operational Amplifiers
+    Study on thermal effects in analog ICs and sensor front-ends.
+👉 [opamp-temperature-effects-thesis](https://github.com/matteotonini2003/opamp-temperature-effects-thesis)
+---
 
 ## 🧰 Skills
 
