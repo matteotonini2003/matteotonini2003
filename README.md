@@ -22,7 +22,8 @@ I enjoy building hardware–software systems, from low-level embedded code to PC
   Multi-threaded client–server booking system.  
   👉 [tcp-client-server-cinema](https://github.com/matteotonini2003/tcp-client-server-cinema)
 
-- 🔋 **Emergency Charger PCB (KiCad + SPICE)** *(coming soon)*  
+- 🔋 **Emergency Charger PCB (KiCad + SPICE)** 
+  👉 [emergency-usb-charger-pcb](https://github.com/matteotonini2003/emergency-usb-charger-pcb)
 
 - ⚙️ **ATmega32 Assembly Projects**  
   AVR assembly projects for ATmega32 microcontroller, focused on timers, GPIO and embedded systems labs.  
