@@ -25,6 +25,7 @@ I enjoy building hardware–software systems, from low-level embedded code to PC
 - 🔋 **Emergency Charger PCB (KiCad + SPICE)** *(coming soon)*
     
 - ⚙️ **ATmega32 Assembly Projects**
+  AVR assembly projects for ATmega32 microcontroller, focused on timers, GPIO and embedded systems labs.
   👉 [atmega32-assembly-labs](https://github.com/matteotonini2003/atmega32-assembly-labs)
   
 
