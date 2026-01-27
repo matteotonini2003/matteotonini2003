@@ -22,7 +22,8 @@ I enjoy building hardware–software systems, from low-level embedded code to PC
   Multi-threaded client–server booking system.  
   👉 [tcp-client-server-cinema](https://github.com/matteotonini2003/tcp-client-server-cinema)
 
-- 🔋 **Emergency Charger PCB (KiCad + SPICE)** 
+- 🔋 **Emergency Charger PCB (KiCad + SPICE)**
+  Emergency USB charger PCB designed in KiCad with SPICE simulations and ATtiny85 control, developed for an electronics construction course.
   👉 [emergency-usb-charger-pcb](https://github.com/matteotonini2003/emergency-usb-charger-pcb)
 
 - ⚙️ **ATmega32 Assembly Projects**  
