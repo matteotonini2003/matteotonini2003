@@ -8,11 +8,11 @@ I enjoy building hardware–software systems, from low-level embedded code to PC
 
 ## 🔧 Technical Interests
 
-- Embedded Systems & Firmware
-- Wireless & IoT Devices
-- Networking & Distributed Systems
-- PCB Design & Circuit Simulation
-- Low-level C Programming
+- Embedded Systems & Firmware  
+- Wireless & IoT Devices  
+- Networking & Distributed Systems  
+- PCB Design & Circuit Simulation  
+- Low-level C Programming  
 
 ---
 
@@ -22,30 +22,35 @@ I enjoy building hardware–software systems, from low-level embedded code to PC
   Multi-threaded client–server booking system.  
   👉 [tcp-client-server-cinema](https://github.com/matteotonini2003/tcp-client-server-cinema)
 
-- 🔋 **Emergency Charger PCB (KiCad + SPICE)** *(coming soon)*
-    
-- ⚙️ **ATmega32 Assembly Projects**
-  AVR assembly projects for ATmega32 microcontroller, focused on timers, GPIO and embedded systems labs.
+- 🔋 **Emergency Charger PCB (KiCad + SPICE)** *(coming soon)*  
+
+- ⚙️ **ATmega32 Assembly Projects**  
+  AVR assembly projects for ATmega32 microcontroller, focused on timers, GPIO and embedded systems labs.  
   👉 [atmega32-assembly-labs](https://github.com/matteotonini2003/atmega32-assembly-labs)
-  
 
 ---
+
 ## 📚 Academic Work
 
-  Bachelor’s Thesis — Temperature Effects in Operational Amplifiers
-  Study on thermal effects in analog ICs and sensor front-ends.
-👉 [opamp-temperature-effects-thesis](https://github.com/matteotonini2003/opamp-temperature-effects-thesis)
+- 📘 **Bachelor’s Thesis — Temperature Effects in Operational Amplifiers**  
+  Study on thermal effects in analog ICs and sensor front-ends.  
+  👉 [opamp-temperature-effects-thesis](https://github.com/matteotonini2003/opamp-temperature-effects-thesis)
+
 ---
 
 ## 🧰 Skills
 
 **Programming:** C, AVR Assembly  
+
 **Embedded:** ATmega32, Microcontrollers  
+
 **Wireless / IoT:** *(in progress)*  
+
 **EDA:** KiCad, LTspice  
-**Lab:** SPICE simulation before hardware implementation, Breadboard prototyping, Oscilloscope measurements (time-domain and frequency response), Function generator usage,  
-         Bench power supplies, Multimeter measurements, Noise and offset analysis, Debugging and fault isolation, Comparison between simulated and measured results
-**OS:** Linux
+
+**Lab:** SPICE simulation before hardware implementation, breadboard prototyping, oscilloscope measurements (time-domain and frequency response), function generator usage, bench power supplies, multimeter measurements, noise and offset analysis, debugging and fault isolation, comparison between simulated and measured results  
+
+**OS:** Linux  
 
 ---
 
@@ -56,4 +61,3 @@ I'm looking for **internships in embedded systems, hardware engineering, wireles
 ---
 
 📫 Feel free to connect on GitHub!
-
