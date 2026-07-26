@@ -57,7 +57,7 @@ I enjoy building hardware–software systems, from low-level embedded code and P
 
 ## 🧰 Skills
 
-**Programming:** C, C++, Python, AVR Assembly
+**Programming:** C, C++, AVR Assembly
 
 **Embedded:** ATmega32, ATtiny85, Microcontrollers, low-level firmware
 
