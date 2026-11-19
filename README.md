@@ -21,35 +21,32 @@ I enjoy building hardware–software systems, from low-level embedded code and P
 
 ## 📌 Featured Projects
 
-Progetti Magistrale (Digital, Power & Analog Design)
-* 🔄 CORDIC VHDL FPGA Project
-  Fixed-point VHDL implementation of a CORDIC-based Cartesian to polar coordinate converter, including RTL design, testbench, ModelSim          simulation, Vivado implementation and final project report.
-  👉 CORDIC-VHDL-FPGA
+### 🎓 M.Sc. Projects (Digital, Power & Analog Design)
 
-* 📡 DDFS VHDL FPGA Project
-  VHDL implementation of a Direct Digital Frequency Synthesizer based on a phase accumulator and lookup table, with testbench, simulation       files and Vivado constraints.
-  👉 DDFS-VHDL-FPGA
+* 🔄 **[CORDIC VHDL FPGA Project](https://github.com/matteotonini2003/CORDIC-VHDL-FPGA)**  
+  Fixed-point VHDL implementation of a CORDIC-based Cartesian to polar coordinate converter, including RTL design, testbench, ModelSim simulation, Vivado implementation, and final project report.
 
-* ⚡ Buck–Boost Converter Design and Control
+* 📡 **[DDFS VHDL FPGA Project](https://github.com/matteotonini2003/DDFS-VHDL-FPGA)**  
+  VHDL implementation of a Direct Digital Frequency Synthesizer based on a phase accumulator and lookup table, with testbench, simulation files, and Vivado constraints.
+
+* ⚡ **[Buck–Boost Converter Design and Control](https://github.com/matteotonini2003/buck-boost-converter-design)**  
   Design, sizing, and control analysis of a synchronous DC–DC buck–boost power converter with SPICE simulations.
-  👉 buck-boost-converter-design
 
-* 🔬 CMOS OTA Analog Design
-  Full-custom analog design of a p-type CMOS Operational Transconductance Amplifier in PSM025 technology, including transistor sizing,          LTspice simulations, layout documentation, DRC, extraction and LVS results.
-  👉 CMOS-OTA-Analog-Design
+* 🔬 **[CMOS OTA Analog Design](https://github.com/matteotonini2003/CMOS-OTA-Analog-Design)**  
+  Full-custom analog design of a p-type CMOS Operational Transconductance Amplifier in PSM025 technology, including transistor sizing, LTspice simulations, layout documentation, DRC, extraction, and LVS results.
 
-Progetti Triennale (Embedded, PCB & Software)
-* 🔋 Emergency Charger PCB (KiCad + SPICE)
+---
+
+### 🎓 B.Sc. Projects (Embedded, PCB & Software)
+
+* 🔋 **[Emergency Charger PCB (KiCad + SPICE)](https://github.com/matteotonini2003/emergency-usb-charger-pcb)**  
   Emergency USB charger PCB designed in KiCad with SPICE simulations and ATtiny85 control, developed for an electronics construction course.
-  👉 emergency-usb-charger-pcb
 
-* ⚙️ ATmega32 Assembly Projects
-  AVR assembly projects for ATmega32 microcontroller, focused on timers, GPIO and embedded systems labs.
-  👉 atmega32-assembly-labs
+* ⚙️ **[ATmega32 Assembly Projects](https://github.com/matteotonini2003/atmega32-assembly-labs)**  
+  AVR assembly projects for ATmega32 microcontroller, focused on timers, GPIO, and embedded systems labs.
 
-* 🎬 Multiplex Cinema Ticketing System (C / TCP/IP)
+* 🎬 **[Multiplex Cinema Ticketing System (C / TCP/IP)](https://github.com/matteotonini2003/tcp-client-server-cinema)**  
   Multi-threaded client–server booking system.
-  👉 tcp-client-server-cinema
 
 ---
 
