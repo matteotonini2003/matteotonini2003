@@ -22,34 +22,34 @@ I enjoy building hardware–software systems, from low-level embedded code and P
 ## 📌 Featured Projects
 
 Progetti Magistrale (Digital, Power & Analog Design)
-🔄 CORDIC VHDL FPGA Project
-Fixed-point VHDL implementation of a CORDIC-based Cartesian to polar coordinate converter, including RTL design, testbench, ModelSim simulation, Vivado implementation and final project report.
-👉 CORDIC-VHDL-FPGA
+* 🔄 CORDIC VHDL FPGA Project
+  Fixed-point VHDL implementation of a CORDIC-based Cartesian to polar coordinate converter, including RTL design, testbench, ModelSim          simulation, Vivado implementation and final project report.
+  👉 CORDIC-VHDL-FPGA
 
-📡 DDFS VHDL FPGA Project
-VHDL implementation of a Direct Digital Frequency Synthesizer based on a phase accumulator and lookup table, with testbench, simulation files and Vivado constraints.
-👉 DDFS-VHDL-FPGA
+* 📡 DDFS VHDL FPGA Project
+  VHDL implementation of a Direct Digital Frequency Synthesizer based on a phase accumulator and lookup table, with testbench, simulation       files and Vivado constraints.
+  👉 DDFS-VHDL-FPGA
 
-⚡ Buck–Boost Converter Design and Control
-Design, sizing, and control analysis of a synchronous DC–DC buck–boost power converter with SPICE simulations.
-👉 buck-boost-converter-design
+* ⚡ Buck–Boost Converter Design and Control
+  Design, sizing, and control analysis of a synchronous DC–DC buck–boost power converter with SPICE simulations.
+  👉 buck-boost-converter-design
 
-🔬 CMOS OTA Analog Design
-Full-custom analog design of a p-type CMOS Operational Transconductance Amplifier in PSM025 technology, including transistor sizing, LTspice simulations, layout documentation, DRC, extraction and LVS results.
-👉 CMOS-OTA-Analog-Design
+* 🔬 CMOS OTA Analog Design
+  Full-custom analog design of a p-type CMOS Operational Transconductance Amplifier in PSM025 technology, including transistor sizing,          LTspice simulations, layout documentation, DRC, extraction and LVS results.
+  👉 CMOS-OTA-Analog-Design
 
 Progetti Triennale (Embedded, PCB & Software)
-🔋 Emergency Charger PCB (KiCad + SPICE)
-Emergency USB charger PCB designed in KiCad with SPICE simulations and ATtiny85 control, developed for an electronics construction course.
-👉 emergency-usb-charger-pcb
+* 🔋 Emergency Charger PCB (KiCad + SPICE)
+  Emergency USB charger PCB designed in KiCad with SPICE simulations and ATtiny85 control, developed for an electronics construction course.
+  👉 emergency-usb-charger-pcb
 
-⚙️ ATmega32 Assembly Projects
-AVR assembly projects for ATmega32 microcontroller, focused on timers, GPIO and embedded systems labs.
-👉 atmega32-assembly-labs
+* ⚙️ ATmega32 Assembly Projects
+  AVR assembly projects for ATmega32 microcontroller, focused on timers, GPIO and embedded systems labs.
+  👉 atmega32-assembly-labs
 
-🎬 Multiplex Cinema Ticketing System (C / TCP/IP)
-Multi-threaded client–server booking system.
-👉 tcp-client-server-cinema
+* 🎬 Multiplex Cinema Ticketing System (C / TCP/IP)
+  Multi-threaded client–server booking system.
+  👉 tcp-client-server-cinema
 
 ---
 
