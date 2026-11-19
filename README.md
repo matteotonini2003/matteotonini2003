@@ -70,7 +70,7 @@ I enjoy building hardware–software systems, from low-level embedded code and P
 
 **Wireless / RF:** ADS (Keysight), antenna modeling, transmission lines, S-parameters, EM simulation
 
-**EDA:** KiCad, LTspice, Xilinx Vivado, ModelSim
+**EDA:** KiCad, LTspice, Xilinx Vivado, ModelSim, Quartus
 
 **Lab:** SPICE simulation before hardware implementation, breadboard prototyping, oscilloscope measurements (time-domain and frequency response), function generator usage, bench power supplies, multimeter measurements, noise and offset analysis, debugging and fault isolation, comparison between simulated and measured results
 
