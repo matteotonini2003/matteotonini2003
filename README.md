@@ -77,13 +77,13 @@ I enjoy building hardware–software systems, from low-level embedded code and P
 
 **Embedded:** ATmega32, ATtiny85, microcontrollers, low-level firmware
 
-**Digital Design / FPGA:** VHDL, Verilog, RTL design, finite state machines, fixed-point arithmetic, VGA interfaces, ROM-based graphics, testbenches, ModelSim, Verilator, Vivado, Quartus, FPGA implementation, timing analysis, power analysis
+**Digital Design / FPGA:** VHDL, Verilog, RTL design, finite state machines, fixed-point arithmetic, VGA interfaces, ROM-based graphics, testbenches, ModelSim, Vivado, Quartus, FPGA implementation, timing analysis, power analysis
 
 **Analog IC Design:** CMOS analog design, OTA design, MOSFET sizing, biasing, current mirrors, differential pairs, operating point analysis, gain estimation, DRC, LVS
 
 **Wireless / RF:** ADS (Keysight), antenna modeling, transmission lines, S-parameters, EM simulation
 
-**EDA:** KiCad, LTspice, Xilinx Vivado, ModelSim, Quartus, Verilator
+**EDA:** KiCad, LTspice, Xilinx Vivado, ModelSim, Quartus
 
 **Lab:** SPICE simulation before hardware implementation, breadboard prototyping, oscilloscope measurements (time-domain and frequency response), function generator usage, bench power supplies, multimeter measurements, noise and offset analysis, debugging and fault isolation, comparison between simulated and measured results
 
