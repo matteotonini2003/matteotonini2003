@@ -77,7 +77,7 @@ I enjoy building hardware–software systems, from low-level embedded code and P
 
 **Embedded:** ATmega32, ATtiny85, microcontrollers, low-level firmware
 
-**Digital Design / FPGA:** VHDL, Verilog, SystemVerilog, RTL design, finite state machines, fixed-point arithmetic, VGA interfaces, ROM-based graphics, testbenches, ModelSim, Verilator, Vivado, Quartus, FPGA implementation, timing analysis, power analysis
+**Digital Design / FPGA:** VHDL, Verilog, RTL design, finite state machines, fixed-point arithmetic, VGA interfaces, ROM-based graphics, testbenches, ModelSim, Verilator, Vivado, Quartus, FPGA implementation, timing analysis, power analysis
 
 **Analog IC Design:** CMOS analog design, OTA design, MOSFET sizing, biasing, current mirrors, differential pairs, operating point analysis, gain estimation, DRC, LVS
 
