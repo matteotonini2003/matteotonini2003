@@ -25,7 +25,7 @@ I enjoy building hardware–software systems, from low-level embedded code and P
 
 - 🎮 **[Coin Rush — FPGA Arcade Game](https://github.com/matteotonini2003/coin-rush-fpga)**
 
-  Arcade game developed in Verilog for the Terasic DE2 (Cyclone II), featuring 640×480 VGA graphics, FSM-based game control, moving obstacles, collision detection, collectible coins, multiple levels, and sprite ROM rendering. The project also includes an audio subsystem interfacing with the WM8731 codec. RTL behavior was tested with Verilator and the game was validated on physical FPGA hardware. The public repository contains screenshots and technical reports in **English and Italian**; full RTL sources are not included.
+  Arcade game developed in Verilog for the Terasic DE2 (Cyclone II), featuring 640×480 VGA graphics, FSM-based game control, moving obstacles, collision detection, collectible coins, multiple levels, and sprite ROM rendering. The project also includes an audio subsystem interfacing with the WM8731 codec. RTL behavior was tested with ModelSim and the game was validated on physical FPGA hardware. The public repository contains screenshots and technical reports in **English and Italian**; full RTL sources are not included.
 
 - 🔄 **[CORDIC VHDL FPGA Project](https://github.com/matteotonini2003/CORDIC-VHDL-FPGA)**
 
